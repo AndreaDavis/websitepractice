@@ -1,0 +1,17 @@
+h1 {
+    color: orange;
+    font-style: bold;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+}
+#navbar {
+    background-color: yellow;
+    padding: 80px;
+}
+.intro {
+    font-family: arial;
+    background-color: grey;
+    color: dark grey;
+}
